@@ -1,5 +1,5 @@
 # hitotoki-blog
 
-a light-blog system 
+a lightweight blog system 
 
 
